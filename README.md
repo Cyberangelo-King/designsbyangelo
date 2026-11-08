@@ -1,21 +1,24 @@
 # Angëlo — Visual Practice
 
-A responsive editorial portfolio by Angëlo (Faith Akinola Boyejo), independent graphic designer and visual communicator in Lagos, Nigeria.
+A responsive editorial graphic-design portfolio by Angëlo (Faith Akinola Boyejo), Lagos, Nigeria.
 
-The site features 10 selected projects, 20 visual studies, ten concise case studies, an indicative NGN rate card and a guided project-enquiry interaction without a contact form.
+- 10 selected works with individual case-study pages and concise stories.
+- 20 visual studies exploring grid, typography, colour, geometry, rhythm and composition.
+- Consistent portfolio identity with distinct art direction for each project.
+- USD starting-rate card and terms-and-conditions note.
+- Guided project enquiry via prefilled email; no contact form.
+- Responsive layouts, Lottie orbital mark, Framer Motion choreography, hover transitions and reduced-motion support.
+- SEO metadata, JSON-LD, Open Graph, sitemap, canonical URLs and llms.txt.
+- 31-page downloadable PDF portfolio.
 
-The full 31-page PDF portfolio is delivered separately with the downloadable project package. It is intentionally not committed here to keep the site repository lean.
+Static site: no build command. Netlify publish directory is `.`; production branch is `main`.
 
-All independent concepts are labelled as self-initiated. Personal-brand work and the A. O. Festus academic website work are identified accurately. The visual studies include AI-assisted explorations, with creative direction and curation by Angëlo. No fabricated client testimonials or commercial outcomes are presented.
+Framer Motion is pinned to 12.23.24, loaded progressively from esm.sh. Lottie Web is loaded progressively from jsDelivr; CSS fallbacks keep core interactions usable if CDN assets fail or reduced motion is preferred.
 
-## Deploy on Netlify
+Concepts such as VELORA, TWM Realty, AFTER HOURS, FORM / OBJECTS, ORIGIN / JOURNAL and SŌL / OLFACTIVE are self-initiated and are labelled as such. Personal-brand work and the A. O. Festus website project are identified accurately. No fabricated testimonials, awards or commercial outcomes are presented.
 
-Connect this repository to Netlify, production branch `main`, publish directory `.`, and no build command. The site is plain static HTML/CSS/JavaScript/SVG; no package installation is required.
+## Rates
+Indicative USD starting prices; final fees depend on scope, deliverables, usage and timeline. Terms and conditions apply. Local-currency equivalents agreed at quotation.
 
 ## Contact
-
 faithakinaboyejo@gmail.com
-
-## Licence
-
-Portfolio artwork and copy are original portfolio presentation assets. Do not redistribute or use as client deliverables without permission.

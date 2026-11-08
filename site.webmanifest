@@ -1,0 +1,15 @@
+{
+  "name": "Angëlo — Visual Practice",
+  "short_name": "Angëlo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#171817",
+  "theme_color": "#171817",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

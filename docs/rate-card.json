@@ -1,0 +1,35 @@
+{
+  "currency": "USD",
+  "terms": "Terms and conditions apply.",
+  "note": "Indicative starting rates. Final fees depend on brief, scope, deliverables, usage and timeline. Printing, licensed assets, extra formats and rush work may be quoted separately. Local-currency equivalents are agreed at quotation.",
+  "rates": [
+    {
+      "service": "Social media graphic",
+      "startingAt": "$10"
+    },
+    {
+      "service": "Flyer / promotional poster",
+      "startingAt": "$15"
+    },
+    {
+      "service": "Five-piece social pack",
+      "startingAt": "$40"
+    },
+    {
+      "service": "Logo design direction",
+      "startingAt": "$40"
+    },
+    {
+      "service": "Starter visual identity",
+      "startingAt": "$105"
+    },
+    {
+      "service": "Presentation / editorial deck",
+      "startingAt": "$60"
+    },
+    {
+      "service": "Landing-page visual design",
+      "startingAt": "$90"
+    }
+  ]
+}

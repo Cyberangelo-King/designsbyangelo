@@ -1,0 +1,296 @@
+{
+  "selectedWorks": [
+    {
+      "number": 1,
+      "slug": "velora",
+      "name": "VELORA",
+      "kicker": "The standard of clean",
+      "discipline": "Brand identity · Packaging · Campaign",
+      "palette": [
+        "#e9e8dc",
+        "#163e32",
+        "#d8e4a6",
+        "#d16b4b"
+      ],
+      "story": "Cleanliness is often sold as a chore. VELORA reframes it as a daily ritual: calm, tactile and quietly desirable. The identity pairs a disciplined typographic system with botanical geometry and a restrained palette, giving everyday hygiene the visual language of considered care.",
+      "principle": "Restraint creates value.",
+      "kind": "Self-initiated concept",
+      "year": "2026"
+    },
+    {
+      "number": 2,
+      "slug": "mind-over-matter",
+      "name": "MIND OVER MATTER",
+      "kicker": "A practice of attention",
+      "discipline": "Personal identity · Editorial · Social",
+      "palette": [
+        "#171817",
+        "#e9e4d7",
+        "#d6f46a",
+        "#6572f5"
+      ],
+      "story": "A personal intellectual project about the mind as a place to train, question and renew. The identity uses compressed type, sharp contrast and a single electric accent. Its visual tension is intentional: disciplined without becoming tame.",
+      "principle": "Contrast gives thought a voice.",
+      "kind": "Personal project",
+      "year": "2026"
+    },
+    {
+      "number": 3,
+      "slug": "the-cost-of-conformity",
+      "name": "THE COST OF CONFORMITY",
+      "kicker": "An editorial on independent judgement",
+      "discipline": "Editorial campaign · Poster · Social",
+      "palette": [
+        "#f0eae0",
+        "#171717",
+        "#eb4e45",
+        "#c9ff47"
+      ],
+      "story": "An essay becomes a visual argument. The campaign translates conformity into repetition and independent judgement into a deliberate interruption. A strict grid establishes order; oversized type, cropped forms and a disruptive signal colour challenge it without sacrificing hierarchy.",
+      "principle": "Break the pattern, not the logic.",
+      "kind": "Self-initiated editorial project",
+      "year": "2026"
+    },
+    {
+      "number": 4,
+      "slug": "the-web-maven",
+      "name": "THE WEB MAVEN",
+      "kicker": "Specific beats polished",
+      "discipline": "Brand identity · Digital direction · Social",
+      "palette": [
+        "#171817",
+        "#f1eee6",
+        "#d59c42",
+        "#77766f"
+      ],
+      "story": "The Web Maven builds premium web systems for businesses that need more than a pretty page. Its identity is architectural and assured: graphite, warm ivory and a precise amber signal. The system balances technical clarity with a human point of view.",
+      "principle": "Systems make style repeatable.",
+      "kind": "Personal business identity",
+      "year": "2026"
+    },
+    {
+      "number": 5,
+      "slug": "twm-realty",
+      "name": "TWM REALTY",
+      "kicker": "Space, considered",
+      "discipline": "Identity concept · Digital design",
+      "palette": [
+        "#202323",
+        "#e7e1d3",
+        "#b99762",
+        "#89958b"
+      ],
+      "story": "A property identity built around trust, space and considered decisions. The visual language avoids familiar real-estate shorthand in favour of editorial typography, quiet metallic accents and generous margins that let each property breathe.",
+      "principle": "Whitespace signals confidence.",
+      "kind": "Self-initiated brand concept",
+      "year": "2026"
+    },
+    {
+      "number": 6,
+      "slug": "after-hours",
+      "name": "AFTER HOURS",
+      "kicker": "Sound in the city",
+      "discipline": "Music campaign · Poster · Social",
+      "palette": [
+        "#171a38",
+        "#f1d7c7",
+        "#fe5d76",
+        "#a5a5ff"
+      ],
+      "story": "A night-time music series imagined as a moving signal through the city. The campaign leans into oversized condensed type, hard crops and saturated colour. Rhythm is carried by repetition, scale shifts and a deliberate sense of visual noise.",
+      "principle": "Rhythm can be seen.",
+      "kind": "Self-initiated campaign concept",
+      "year": "2026"
+    },
+    {
+      "number": 7,
+      "slug": "form-objects",
+      "name": "FORM / OBJECTS",
+      "kicker": "Objects for living",
+      "discipline": "Product identity · Art direction",
+      "palette": [
+        "#ded2bd",
+        "#262522",
+        "#b85d40",
+        "#f0e8d9"
+      ],
+      "story": "A furniture and objects label built on the beauty of proportion. The identity borrows from architectural drawing and tactile material studies: measured lines, warm neutrals, and a strong serif that gives the objects room to speak.",
+      "principle": "Proportion is a quiet language.",
+      "kind": "Self-initiated brand concept",
+      "year": "2026"
+    },
+    {
+      "number": 8,
+      "slug": "a-o-festus",
+      "name": "A. O. FESTUS",
+      "kicker": "Scholarship, made accessible",
+      "discipline": "Academic website · Digital identity",
+      "palette": [
+        "#f5f0e7",
+        "#592537",
+        "#c5a879",
+        "#252324"
+      ],
+      "story": "A digital home for academic work, research and public scholarship. The direction respects the authority of an established academic identity while improving clarity, navigation and access to publications. The result is an editorial web system, not a generic institutional template.",
+      "principle": "Clarity is a form of respect.",
+      "kind": "Website project",
+      "year": "2026"
+    },
+    {
+      "number": 9,
+      "slug": "origin-journal",
+      "name": "ORIGIN / JOURNAL",
+      "kicker": "A study in beginnings",
+      "discipline": "Editorial identity · Publication",
+      "palette": [
+        "#ece6d9",
+        "#292b24",
+        "#7d8c58",
+        "#bf7854"
+      ],
+      "story": "An independent journal concept exploring where ideas, objects and culture begin. The design uses a literary serif, a flexible modular grid and documentary image treatments. It is deliberately quiet at first glance, then reveals detail through pacing and composition.",
+      "principle": "Pacing gives meaning space.",
+      "kind": "Self-initiated editorial concept",
+      "year": "2026"
+    },
+    {
+      "number": 10,
+      "slug": "sol-olfactive",
+      "name": "SŌL / OLFACTIVE",
+      "kicker": "A fragrance in form",
+      "discipline": "Luxury identity · Packaging concept",
+      "palette": [
+        "#e6d8c6",
+        "#28251f",
+        "#a87653",
+        "#d0b6a0"
+      ],
+      "story": "A fragrance house imagined through atmosphere rather than excess. The system draws on sculptural silhouettes, understated typography and warm mineral colour. Packaging is treated as an object of daily ritual, with proportion and material doing most of the work.",
+      "principle": "Luxury is often an edit.",
+      "kind": "Self-initiated brand concept",
+      "year": "2026"
+    }
+  ],
+  "visualStudies": [
+    {
+      "number": "01",
+      "title": "Basel, rebalanced",
+      "discipline": "Swiss grid · Alignment",
+      "asset": "/assets/studies/01.svg"
+    },
+    {
+      "number": "02",
+      "title": "Good disorder",
+      "discipline": "Memphis · Controlled chaos",
+      "asset": "/assets/studies/02.svg"
+    },
+    {
+      "number": "03",
+      "title": "Chromatic voice",
+      "discipline": "Typography · Colour",
+      "asset": "/assets/studies/03.svg"
+    },
+    {
+      "number": "04",
+      "title": "Optical tension",
+      "discipline": "Scale · Negative space",
+      "asset": "/assets/studies/04.svg"
+    },
+    {
+      "number": "05",
+      "title": "Hard / soft",
+      "discipline": "Brutalism · Contrast",
+      "asset": "/assets/studies/05.svg"
+    },
+    {
+      "number": "06",
+      "title": "Modular pulse",
+      "discipline": "Repetition · Rhythm",
+      "asset": "/assets/studies/06.svg"
+    },
+    {
+      "number": "07",
+      "title": "Glyph in motion",
+      "discipline": "Kinetic type · Movement",
+      "asset": "/assets/studies/07.svg"
+    },
+    {
+      "number": "08",
+      "title": "The quiet centre",
+      "discipline": "Whitespace · Focus",
+      "asset": "/assets/studies/08.svg"
+    },
+    {
+      "number": "09",
+      "title": "Serif / signal",
+      "discipline": "Type pairing · Hierarchy",
+      "asset": "/assets/studies/09.svg"
+    },
+    {
+      "number": "10",
+      "title": "Axis shift",
+      "discipline": "Asymmetry · Balance",
+      "asset": "/assets/studies/10.svg"
+    },
+    {
+      "number": "11",
+      "title": "A better grid",
+      "discipline": "Swiss poster · Structure",
+      "asset": "/assets/studies/11.svg"
+    },
+    {
+      "number": "12",
+      "title": "Primary language",
+      "discipline": "Bauhaus · Geometry",
+      "asset": "/assets/studies/12.svg"
+    },
+    {
+      "number": "13",
+      "title": "Letter as object",
+      "discipline": "Letterform · Shape",
+      "asset": "/assets/studies/13.svg"
+    },
+    {
+      "number": "14",
+      "title": "Two-tone study",
+      "discipline": "Duotone · Contrast",
+      "asset": "/assets/studies/14.svg"
+    },
+    {
+      "number": "15",
+      "title": "One continuous line",
+      "discipline": "Ligature · Connection",
+      "asset": "/assets/studies/15.svg"
+    },
+    {
+      "number": "16",
+      "title": "Grid rupture",
+      "discipline": "Composition · Disruption",
+      "asset": "/assets/studies/16.svg"
+    },
+    {
+      "number": "17",
+      "title": "Colour collision",
+      "discipline": "Chromatic contrast",
+      "asset": "/assets/studies/17.svg"
+    },
+    {
+      "number": "18",
+      "title": "Surface memory",
+      "discipline": "Texture · Material",
+      "asset": "/assets/studies/18.svg"
+    },
+    {
+      "number": "19",
+      "title": "Specimen no. 19",
+      "discipline": "Typography · Scale",
+      "asset": "/assets/studies/19.svg"
+    },
+    {
+      "number": "20",
+      "title": "A study in pause",
+      "discipline": "Negative space · Rhythm",
+      "asset": "/assets/studies/20.svg"
+    }
+  ]
+}
